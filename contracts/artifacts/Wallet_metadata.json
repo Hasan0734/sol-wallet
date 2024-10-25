@@ -130,11 +130,11 @@
 	},
 	"sources": {
 		"contracts/Wallet.sol": {
-			"keccak256": "0x6fbcae83a7f7322b7a947ddc329483d12c85004ac9137923a3a7d9424a780337",
+			"keccak256": "0x53b53bd04433203570e237b8618815262fca29670329f2bae85f859331302d75",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b81db58dc2fe0c6b4ce1369fadcc559824d7d5666695fd24c2a2e785f2d7b0d4",
-				"dweb:/ipfs/QmbeWSC6Bii3kiWrSJjMcyQvWLo2mnB5cEZXkK73TNGWSr"
+				"bzz-raw://4f9438288f3dfbf43f13c46166a07ac5e35e080b2c21391c4be845e8a71c0442",
+				"dweb:/ipfs/QmXQ2g63aLjiqpqV6w1B7CzpFQZMsFjCCNDBViAt6NsaaQ"
 			]
 		}
 	},
